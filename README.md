@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anurag Ghosliya
 
-🎓 A Engineering student turned passionate **Full Stack Java Developer**  
+🎓 A Engineering student turned passionate **Full Stack Java Developer/Software Developer**  
 💻 Specializing in **Spring Boot, REST APIs, Docker, JWT Security**, and **Real-world Project Development**  
 🔐 Also diving deep into **Cybersecurity, Cloud Integrations**, and DevOps tools
 
