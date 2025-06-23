@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**git075/git075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 👋 Hi, I'm Anurag Ghosliya
+# 👋 Hi, I'm Anurag Ghosliya
 
 🎓 A Engineering student turned passionate **Full Stack Java Developer**  
 💻 Specializing in **Spring Boot, REST APIs, Docker, JWT Security**, and **Real-world Project Development**  
@@ -67,8 +59,7 @@ I’m building and deploying complete applications — not just for learning but
 - Eliminates WhatsApp/email; simple UX with powerful backend
 - Ideal for print shops, studios, and local file-based service businesses
 
-### 🔹 [Student Portfolio + Resume Platform with QR Profiles](Currently Building)
-
+### 🔹 [Student Portfolio + Resume Platform with QR Profiles](currently building)
 
 ### 🔹 IntelliJ TODO Handler Plugin (AI-Enhanced)(https://github.com/git075/TodoHandlerPlugin)
 - IntelliJ Plugin to detect TODOs in code and display in a side panel
@@ -98,11 +89,3 @@ I’m building and deploying complete applications — not just for learning but
 
 > “Code that solves real problems is always better than perfect code that solves none.”
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
