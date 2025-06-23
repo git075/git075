@@ -34,7 +34,7 @@ I’m building and deploying complete applications — not just for learning but
 - Nginx (basics), CI/CD concepts
 
 **Database:**  
-- MySQL, PostgreSQL  
+- MySQL, MongoDB
 - JPA/Hibernate
 
 **Tools & Cloud:**  
